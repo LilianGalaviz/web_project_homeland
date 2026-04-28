@@ -12,7 +12,7 @@
   margin: 0;
 }
 
-.blockquote__intro {
+.intro__blockquote {
   padding-top: 39.98px;
   font-weight: 400;
   font-size: 1.5rem;
@@ -23,7 +23,7 @@
   margin: 0;
 }
 
-.cite__intro {
+.intro__cite {
   font-size: 1.5rem;
   line-height: 2.125rem;
   text-align: right;
@@ -31,7 +31,7 @@
   display: block;
 }
 
-.article__intro {
+.intro__article {
   padding-top: 31.99px;
   font-size: 1rem;
   line-height: 163%;
@@ -53,21 +53,21 @@
     padding-top: 90px;
   }
 
-  .blockquote__intro {
+  .intro__blockquote {
     padding-top: 50px;
     font-size: 1.5rem;
     line-height: 2.125rem;
     max-width: 720px;
   }
 
-  .cite__intro {
+  .intro__cite {
     padding-top: 26px;
     font-size: 1.5rem;
     line-height: 2.125rem;
     max-width: 720px;
   }
 
-  .article__intro {
+  .intro__article {
     padding-top: 32px;
     font-size: 1rem;
     line-height: 163%;
@@ -88,21 +88,21 @@
     padding-top: 64px;
   }
 
-  .blockquote__intro {
+  .intro__blockquote {
     padding-top: 50px;
     font-size: 1.5rem;
     line-height: 2.125rem;
     max-width: 288px;
   }
 
-  .cite__intro {
+  .intro__cite {
     padding-top: 10px;
     font-size: 1.5rem;
     line-height: 2.125rem;
     max-width: 288px;
   }
 
-  .article__intro {
+  .intro__article {
     padding-top: 32px;
     font-size: 1rem;
     line-height: 163%;
